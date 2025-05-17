@@ -1,3 +1,4 @@
+```
 @echo off
 chcp 1252 >nul
 color 0A
@@ -627,3 +628,4 @@ echo ===================================================
 echo.
 timeout /t 3 >nul
 exit
+```
